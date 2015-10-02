@@ -5,5 +5,6 @@
 	</head>
 	<body>
 		<p>I completed the prework.</p>
+		<p><b>YAY!</b></p>
 	</body>
 </html>
