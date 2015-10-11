@@ -2,7 +2,7 @@
 $dbhost  = 'localhost';    // Unlikely to require changing
 $dbname  = 'kkeller13';   // Modify these...
 $dbuser  = 'kkeller13';   // ...variables according
-$dbpass  = '';   // ...to your installation
+$dbpass  = 'rmbalkanfattybirchbunny';   // ...to your installation
 $appname = "Robin's Nest"; // ...and preference
 
 $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
